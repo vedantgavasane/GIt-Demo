@@ -10,4 +10,4 @@ Lets start learning github from basic
 
 // this is one more line newly added on remote repo
 
--- but this is local repo . lets check what happen now on this line ( Leatest )
+--i crated the new line instead on both of them ( Leatest )
